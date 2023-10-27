@@ -32,17 +32,14 @@ Sonar data in a csv file is taken for training and testing purpose. Data preproc
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/MitanshuBaranwal/titanic_data_survivability_prediction.git
-
-   cd titanic_data_survivability_prediction/
+    git clone https://github.com/MitanshuBaranwal/Rock-vs-Mine-Prediction.git
+    cd Rock-vs-Mine-Prediction/
 
 ## ModelBuilding 
 
-Open file "build_model" and run the file it will save the model logistic_regression_model.pkl file. 
+Open file "code" and run the file it will save the model RockSonarModel.pkl file. 
 
-Alternatively you can directly use use_model file as well as saved model is already present in the folder.
-
-You can do the prediction for custom data sets of yours in use_model script by providing the data set that you want to predict
+You can do the prediction for custom data sets of yours in code script by providing the data set that you want to predict
 
 
 ## Contact
