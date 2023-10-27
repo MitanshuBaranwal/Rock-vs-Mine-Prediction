@@ -4,14 +4,6 @@
 Welcome to the Sonar vs. Mine Project repository! This project aims to explore and analyze the effectiveness of sonar technology in detecting underwater mines. By leveraging sonar data and machine learning techniques, we are working to enhance underwater mine detection capabilities.
 
 
-
-# Titanic Survival Prediction
-
-
-This is a Python project for predicting passenger survival on the Titanic using logistic regression. It involves data preprocessing, visualization, model training, and evaluation. Below are the details of each section of the code:
-
-
-
 ## 
 - [Description](#Description)
 - [Prerequisites](#Prerequisites)
@@ -20,6 +12,11 @@ This is a Python project for predicting passenger survival on the Titanic using 
 - [Contact](#contact)
 
 ## Description  
+
+Here's a visual representation of our project workflow:
+
+![Workflow](workflow.png)
+
 Sonar data in a csv file is taken for training and testing purpose. Data preprocessing is done on the available sonar data which is suitable for training the model. After Data preprocessing, a Logistic regression model is built. The dataset is split into testing and training sets. The training data is used to train the model then the new data/ testing data is given to the trained logistic regression model for prediction.
 
 ## Prerequisites
